@@ -1,0 +1,22 @@
+
+#album-view .container {
+	margin: 10px;
+	padding: 10px;
+	max-width: 230px;
+	max-height: 230px;
+	display: flex;
+	flex-direction: column;
+	cursor: pointer;
+	background-color: rgba(255, 255, 255, 0.549);
+}
+.link {
+	margin-top:20px;
+	cursor: pointer;
+    padding: 10px 15px;
+    border: 2px solid green;
+    border-radius: 100px;
+    background-color:rgb(219, 206, 206);
+    text-decoration: none;
+    font-weight: bold;
+    color: #E4221D;
+}
